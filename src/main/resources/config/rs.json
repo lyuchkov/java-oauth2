@@ -1,0 +1,6 @@
+{
+  "secret": "super-secret-key-for-hs256-algorithm-12345678901234567890",
+  "aud": "payments-api",
+  "issuer": "mini-auth",
+  "clockSkewSec": 60
+}
